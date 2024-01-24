@@ -25,6 +25,7 @@
 // import { fetchData } from 'шлях до api файла';
 
 // const button = document.querySelector('.buttons');
+// це був просто список (ul) кнопок button у мому тестовому репозиторії а вже в цьому списку знаходились елементи з айдішкасми мязів
 
 // button.addEventListener('click', async (event) => {
 //     event.preventDefault();
